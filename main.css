@@ -7,7 +7,34 @@ h1{
     font-size: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
     font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h2{
+    font-size: 20px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse:collapse;
+    color: black;
+}
+td,th{
+    border:1px solid #090909 ;
+    font-size: 18px;
+    text-align: left;
+    padding: 8px;
+    
+}
+th{
+    font-weight: bold;
+}
+ul li{
+    font-size:18px;
 }
